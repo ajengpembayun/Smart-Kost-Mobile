@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smart_kost_mobile
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Smart-Kost-Mobile
+Mobile boarding house management system for PPB Capstone Project
+>>>>>>> 7062a67151a108d0cb1566d378f18ab791494cc5
